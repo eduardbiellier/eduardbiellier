@@ -1,3 +1,4 @@
+<pre align="center" style="background: transparent;">
 🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕
 🌕🌕🌕🌒🌕🌖🌒🌕🌕🌕🌕🌕
 🌕🌕🌖🌑🌓🌑🌑🌕🌕🌕🌕🌕
@@ -9,6 +10,8 @@
 🌕🌕🌕🌘🌑🌑🌑🌔🌖🌑🌕🌕
 🌕🌕🌕🌑🌑🌑🌑🌒🌑🌒🌕🌕
 🌕🌕🌕🌑🌑🌑🌑🌑🌒🌕🌕🌕
+meow
+</pre>
 
 
 ![Alt text](https://go-vercel-waka-svg-sepia.vercel.app/api?type=waka)
