@@ -4,9 +4,6 @@
 ![Alt text](https://go-vercel-waka-svg-sepia.vercel.app/api?type=waka)
 
 
-[![Stperrakis wakatime stats](https://go-vercel-waka-svg-sepia.vercel.app/api/wakatime?username=eddie666)]
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardbiellier&show_icons=true&theme=tokyonight)
 
 
