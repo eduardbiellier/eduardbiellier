@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/e26cf803-3b9e-4807-9590-6aee93599027)## Tests here 🤘🐈
 
 
-![Alt text](https://go-vercel-waka-svg-lac.vercel.app/api?type=waka)
+![Alt text](https://go-vercel-waka-svg-sepia.vercel.app//api?type=waka)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardbiellier&show_icons=true&theme=tokyonight)
