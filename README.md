@@ -4,6 +4,9 @@
 ![Alt text](https://go-vercel-waka-svg-sepia.vercel.app/api?type=waka)
 
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?&eddie666&layout=compact&&theme=default&link=https://www.github.com/eduardbiellier/">
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardbiellier&show_icons=true&theme=tokyonight)
 
 
