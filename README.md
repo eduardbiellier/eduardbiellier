@@ -16,7 +16,7 @@
 meow
 </pre>
 
-##This week’s top picks: 
+## This week’s top picks: 
 ![Alt text](https://go-vercel-waka-svg-sepia.vercel.app/api?type=waka)
 
 <!--
